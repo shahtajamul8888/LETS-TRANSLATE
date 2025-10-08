@@ -1,0 +1,27 @@
+# requirements.txt - Python Dependencies
+
+# Core translation libraries
+deep-translator==1.11.4
+googletrans==4.0.0rc1
+
+# Alternative translation services
+libretranslate==1.3.11
+argostranslate==1.8.0
+
+# GUI libraries
+tkinter  # Usually comes with Python
+pyperclip==1.8.2
+
+# HTTP requests
+requests==2.31.0
+
+# Language detection
+langdetect==1.0.9
+
+# Additional utilities
+typing-extensions==4.8.0
+
+# Optional: For advanced features
+# transformers==4.35.0  # For offline AI models
+# torch==2.1.0  # Required by transformers
+# gradio==4.4.1  # For web interface alternative
